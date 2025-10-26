@@ -1,0 +1,8 @@
+# print_names.py
+
+def print_names():
+    print("Simeon O'Neal Alexander")
+    print("Kayden Greaves")
+
+if __name__ == "__main__":
+    print_names()
